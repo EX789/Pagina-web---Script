@@ -23,3 +23,7 @@ C:\Users\raide\Documents\Visual Studio 2010\Projects\Pagina web + Script - ver 6
 C:\Users\raide\Documents\Visual Studio 2010\Projects\Pagina web + Script - ver 6\Pagina web + Script\MiMascota\CapaEntidades\bin\Debug\CapaEntidades.pdb
 C:\Users\raide\Documents\Visual Studio 2010\Projects\Pagina web + Script - ver 6\Pagina web + Script\MiMascota\CapaEntidades\obj\Debug\CapaEntidades.dll
 C:\Users\raide\Documents\Visual Studio 2010\Projects\Pagina web + Script - ver 6\Pagina web + Script\MiMascota\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaEntidades\obj\Debug\CapaEntidades.pdb

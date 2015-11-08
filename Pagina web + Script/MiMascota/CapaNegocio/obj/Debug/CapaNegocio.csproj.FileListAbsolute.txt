@@ -52,3 +52,12 @@ C:\Users\raide\Documents\Visual Studio 2010\Projects\Pagina web + Script - ver 6
 C:\Users\raide\Documents\Visual Studio 2010\Projects\Pagina web + Script - ver 6\Pagina web + Script\MiMascota\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
 C:\Users\raide\Documents\Visual Studio 2010\Projects\Pagina web + Script - ver 6\Pagina web + Script\MiMascota\CapaNegocio\obj\Debug\CapaNegocio.dll
 C:\Users\raide\Documents\Visual Studio 2010\Projects\Pagina web + Script - ver 6\Pagina web + Script\MiMascota\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaNegocio\obj\Debug\CapaNegocio.pdb

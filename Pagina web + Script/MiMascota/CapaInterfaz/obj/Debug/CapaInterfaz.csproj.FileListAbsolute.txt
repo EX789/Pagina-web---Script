@@ -57,3 +57,14 @@ C:\Users\raide\Documents\Visual Studio 2010\Projects\Pagina web + Script - ver 6
 C:\Users\raide\Documents\Visual Studio 2010\Projects\Pagina web + Script - ver 6\Pagina web + Script\MiMascota\CapaInterfaz\obj\Debug\CapaInterfaz.csprojResolveAssemblyReference.cache
 C:\Users\raide\Documents\Visual Studio 2010\Projects\Pagina web + Script - ver 6\Pagina web + Script\MiMascota\CapaInterfaz\obj\Debug\CapaInterfaz.dll
 C:\Users\raide\Documents\Visual Studio 2010\Projects\Pagina web + Script - ver 6\Pagina web + Script\MiMascota\CapaInterfaz\obj\Debug\CapaInterfaz.pdb
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaInterfaz\bin\CapaInterfaz.dll
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaInterfaz\bin\CapaInterfaz.pdb
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaInterfaz\bin\CapaEntidades.dll
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaInterfaz\bin\CapaNegocio.dll
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaInterfaz\bin\CapaDatos.dll
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaInterfaz\bin\CapaEntidades.pdb
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaInterfaz\bin\CapaNegocio.pdb
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaInterfaz\bin\CapaDatos.pdb
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaInterfaz\obj\Debug\CapaInterfaz.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaInterfaz\obj\Debug\CapaInterfaz.dll
+C:\Users\Ivan\Documents\Nueva carpeta\Pagina-web---Script\Pagina web + Script\MiMascota\CapaInterfaz\obj\Debug\CapaInterfaz.pdb
