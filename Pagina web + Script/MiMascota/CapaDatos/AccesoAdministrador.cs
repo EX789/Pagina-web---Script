@@ -8,6 +8,7 @@ namespace CapaDatos
 {
     public class AccesoAdministrador
     {
+        //jajaja
         EF_Pagina contexto;
 
         public Administrador obtenerEstado(string nombre, string contraseña)
